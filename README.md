@@ -3,7 +3,7 @@ A machine learning project for classifying fake vs real news using Natural Langu
 
 ---
 
-## 📌 Project Overview  
+## Project Overview  
 Explain the purpose of the project:  
 - What problem you are solving  
 - Why fake news detection is important  
@@ -12,19 +12,7 @@ Explain the purpose of the project:
 
 ---
 
-## 📁 Repository Structure  
-```
-project/
-├── docs/          # Report PDF
-├── src/           # Python script
-├── data/          # Dataset or sample data
-├── results/       # Confusion matrices, UMAP plots, vocabulary
-└── README.md
-```
-
----
-
-## 🧠 Methods & Techniques  
+## Methods & Techniques  
 List the techniques you used:  
 - Text preprocessing (HTML removal, tokenisation, stopwords, lemmatization)  
 - TF‑IDF vectorisation  
@@ -36,7 +24,7 @@ List the techniques you used:
 
 ---
 
-## 🛠️ Technologies Used  
+## Technologies Used  
 - Python  
 - NLTK  
 - Scikit‑learn  
@@ -47,7 +35,7 @@ List the techniques you used:
 
 ---
 
-## 🚀 How to Run  
+## How to Run  
 1. Install dependencies  
 2. Load dataset  
 3. Run the Python script  
@@ -60,7 +48,7 @@ python src/fake_news_detection.py
 
 ---
 
-## 📊 Results  
+## Results  
 Describe what you achieved:  
 - Cross‑validation recall scores  
 - Confusion matrices  
@@ -70,9 +58,9 @@ Describe what you achieved:
 
 ---
 
-## 📄 Documentation  
+## Documentation  
 Link to your PDF report:
-- `docs/Text_Mining_CA2_Abhinav.pdf`
+- https://drive.google.com/file/d/12S-oiQ7rHAfo__0HxFYZ8TRn58Y4vxj-/view?usp=sharing
 
 ---
 
